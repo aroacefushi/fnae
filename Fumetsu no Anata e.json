@@ -1,40 +1,8 @@
 {
   "title": "Fumetsu no Anata e",
   "description": "",
-  "artist": "Oima Yoshitoki",
-  "author": "Oima Yoshitoki",
-  "cover": "https://i.imgur.com/PYdsfdb.jpg",
-  "chapters": {
-    "171.2": {
-      "title": "\"At the Ends of Power (2)\"",
-      "volume": "",
-      "last_updated": "1684963395",
-      "groups": {
-        "": [
-          "https://i.imgur.com/mRSUqf2.jpg",
-          "https://i.imgur.com/FUyBdGo.jpg"
-        ]
-      }
-    }
-    "171.3": {
-      "title": "\"At the Ends of Power (3)\"",
-      "volume": "",
-      "last_updated": "1684963395",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    }
-    "172.1": {
-      "title": "\"Utopia (1)\"",
-      "volume": "",
-      "last_updated": "1684963395",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    }
-  }
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {}
 }
