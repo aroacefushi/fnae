@@ -20,6 +20,14 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/XbXqYob"
       }
+    },
+    "172.1": {
+      "title": "172.1",
+      "volume": "",
+      "last_updated": "1684965786",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/H3C0F7s"
+      }
     }
   }
 }
