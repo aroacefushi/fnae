@@ -3,7 +3,7 @@
   "description": "",
   "artist": "Oima Yoshitoki",
   "author": "Oima Yoshitoki",
-  "cover": "https://imgur.com/a/OrPYRmO",
+  "cover": "https://i.imgur.com/PYdsfdb.jpg",
   "chapters": {
     "171.2": {
       "title": "\"At the Ends of Power (2)\"",
@@ -11,18 +11,28 @@
       "last_updated": "1684963395",
       "groups": {
         "": [
-          "https://imgur.com/mRSUqf2",
-          "https://imgur.com/FUyBdGo",
-          "https://imgur.com/q2lVfDi",
-          "https://imgur.com/U1Pluwa",
-          "https://imgur.com/lDkHpjn",
-          "https://imgur.com/QnyrOvj",
-          "https://imgur.com/p8NE4yv",
-          "https://imgur.com/uN6KC9T",
-          "https://imgur.com/qcOXQ1z",
-          "https://imgur.com/Y8MRL57",
-          "https://imgur.com/ii4jRS3",
-          "https://imgur.com/rg7jSNc"
+          "https://i.imgur.com/mRSUqf2.jpg",
+          "https://i.imgur.com/FUyBdGo.jpg"
+        ]
+      }
+    }
+    "171.3": {
+      "title": "\"At the Ends of Power (3)\"",
+      "volume": "",
+      "last_updated": "1684963395",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    }
+    "172.1": {
+      "title": "\"Utopia (1)\"",
+      "volume": "",
+      "last_updated": "1684963395",
+      "groups": {
+        "": [
+          ""
         ]
       }
     }
